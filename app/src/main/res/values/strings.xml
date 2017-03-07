@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">English/Default</string>
+    <string name="Name">Name</string>
+    <string name="Last_Name">Last name</string>
+
+    <string name="app_name1">Estamos en español</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+</resources>
